@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_dre.mk
+    $(LOCAL_DIR)/p404_dre.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_dre-user \
-    lineage_dre-userdebug \
-    lineage_dre-eng
+    p404_dre-user \
+    p404_dre-userdebug \
+    p404_dre-eng
